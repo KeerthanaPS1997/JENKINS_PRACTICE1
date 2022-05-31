@@ -50,6 +50,7 @@ public class BaseClass
 	/**
 	 * In this annotation we fetch the data from the properyt file, create the instance
 	 * @throws IOException
+	 * Before suite is updaed
 	 */
    
 	
