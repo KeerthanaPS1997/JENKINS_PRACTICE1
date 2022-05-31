@@ -21,6 +21,7 @@ import io.github.bonigarcia.wdm.WebDriverManager;
 /**
  * This class contains implementation of all basic configuration annotations
  * @author Arkesh
+ * Base class is updated
  *
  */
 public class BaseClass 
